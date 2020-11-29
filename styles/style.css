@@ -168,13 +168,6 @@
 }
 
 .table {
-  width: 1100px;
-  margin-bottom: 100px;
-  margin-top: 60px;
-  display: flex;
-}
-
-.table {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -183,6 +176,7 @@
   align-self: flex-start;
   margin: auto;
   margin-bottom: 100px;
+  margin-top: 60px;
 }
 
 .table__cell {
